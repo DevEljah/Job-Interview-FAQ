@@ -1,17 +1,19 @@
-import React from "react";
-import questions from "./data";
+import React, { useState } from "react";
+import data from "./data";
+
+import RenderData from "./RenderData";
 
 export default function Accordion() {
   return (
-    <div>
-      <ul>
-        {questions.map((question) => (
-          <li>
-            {question.title} <br /> {question.info}
-          </li>
-        ))}
-        <li></li>
-      </ul>
-    </div>
+    <main>
+      <div className="container">
+        <h3>Job - Interview FAQ</h3>
+        <section>
+          {data.map((question) => {
+            return <RenderData key={question.id} {...question} />;
+          })}
+        </section>
+      </div>
+    </main>
   );
 }
