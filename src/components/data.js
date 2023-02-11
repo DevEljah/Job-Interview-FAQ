@@ -14,7 +14,7 @@ const questions = [
     id: 3,
     title:
       "Was ist genau mit „anstrengenden Tagen“ gemeint ist (müde, Projekt hakt, Auftragslage niedrig…?",
-    info: "man hat auch anstrengende Tage und welche, die gut laufen und dennoch werde ich es angehen, weil meine Motivation und Leidenschaft mir helfen → innere Überzeugung!",
+    info: "Man hat auch anstrengende Tage und welche, die gut laufen und dennoch werde ich es angehen, weil meine Motivation und Leidenschaft mir helfen → innere Überzeugung!",
   },
   {
     id: 4,
