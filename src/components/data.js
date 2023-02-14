@@ -31,7 +31,7 @@ const questions = [
     id: 6,
     title:
       "Was prädestiniert dich für die Stelle? Warum sollten wir uns für dich entscheiden?",
-    info: "Ich habe mir ein hohes Ziel gesetzt, nämlich einer der Top-Developer zu werden. Ich bin nicht umsonst nach Deutschland gekommen und es war kein leichter Weg, darum möchte ich die Chance, die ich hier bekommen habe, so gut es geht nutzen, mir eine gute Karriere aufzubauen. Außerdem bin ich gut darin, selbstständig als auch im Team zu arbeiten und es fällt mir leicht, mich schnell in neue Aufgaben einzuarbeiten. Wenn Sie sich für mich entscheiden, gewinnen Sie einen motivierten, ambitionierten und zuverlässigen Mitarbeiter! ",
+    info: "Ich habe mir ein hohes Ziel gesetzt, nämlich einer der Top-Developer zu werden. Ich bin nicht umsonst nach Deutschland gekommen und es war kein leichter Weg, darum möchte ich die Chance, die ich hier bekommen habe, so gut es geht nutzen, mir eine gute Karriere aufzubauen. Außerdem bin ich gut darin, selbstständig als auch im Team zu arbeiten und es fällt mir leicht, mich schnell in neue Aufgaben einzuarbeiten. Wenn Ihr Euch für mich entscheidet, gewinnt Ihr einen motivierten, ambitionierten und zuverlässigen Mitarbeiter!",
   },
   /*  {
     id: 7,
