@@ -24,19 +24,19 @@ const questions = [
   {
     id: 5,
     title:
-      "Mit welchen 3 (Charakter-) Eigenschaften würden Sie sich beschreiben? - Was zeichnet Sie als Mensch und im Arbeiten aus?",
+      "Mit welchen 3 (Charakter-) Eigenschaften würdest du dich beschreiben? - Was zeichnet dich als Mensch und im Arbeiten aus?",
     info: "- Schnelle Auffassungsgabe - Ich kann beharrlich sein (ausdauernd), bleibe dran an den „Dingen“ - Flexibel (z.B. bei plötzlichen Änderungen…).",
   },
   {
     id: 6,
-    title: "Schwächen?",
-    info: "Wenn mir ein Projekt wichtig ist, kann es schon mal passieren, dass ich andere „issues“ vernachlässige (z.B. den Sport…) - wenn es um das Erreichen meiner Ziele geht, muss ich noch daran arbeiten, geduldiger zu werden → Bin mir dieser „Tendenzen“ bewusst und arbeite dran.",
-  },
-  {
-    id: 7,
     title:
       "Was prädestiniert dich für die Stelle? Warum sollten wir uns für dich entscheiden?",
     info: "Ich habe mir ein hohes Ziel gesetzt, nämlich einer der Top-Developer zu werden. Ich bin nicht umsonst nach Deutschland gekommen und es war kein leichter Weg, darum möchte ich die Chance, die ich hier bekommen habe, so gut es geht nutzen, mir eine gute Karriere aufzubauen. Außerdem bin ich gut darin, selbstständig als auch im Team zu arbeiten und es fällt mir leicht, mich schnell in neue Aufgaben einzuarbeiten. Wenn Sie sich für mich entscheiden, gewinnen Sie einen motivierten, ambitionierten und zuverlässigen Mitarbeiter! ",
   },
+  /*  {
+    id: 7,
+    title: "Schwächen?",
+    info: "Wenn mir ein Projekt wichtig ist, kann es schon mal passieren, dass ich andere „issues“ vernachlässige (z.B. den Sport…) - wenn es um das Erreichen meiner Ziele geht, muss ich noch daran arbeiten, geduldiger zu werden → Bin mir dieser „Tendenzen“ bewusst und arbeite dran.",
+  }, */
 ];
 export default questions;
