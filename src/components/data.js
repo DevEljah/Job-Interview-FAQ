@@ -5,11 +5,11 @@ const questions = [
       "Warum hast du dich für diesen Beruf entschieden und was macht dir daran am meisten Freude?",
     info: "Ich glaube, der Beruf passt zu meinem Lebensstil und Charakter sehr. Bin überzeugt, dass diese Berufsrichtung mir eine sichere Zukunft bietet und Entwicklungsmöglichkeiten, weil ich mich immer weiterentwickeln möchte Mir macht Freude, beim Codieren und Programmieren produktiv und kreativ zu sein. ",
   },
-  {
+  /* {
     id: 2,
     title: "Was hat Sie motiviert, sich bei uns zu bewerben?",
     info: "Erstmal hat mir der Webauftritt/die Webseite gut gefallen, dort habe ich gesehen, dass ihr mit ähnlichen „Tools“ arbeitet, mit denen ich auch schon erste Erfahrungen gemacht habe (z.B. React statt Vue). / Weiterentwicklungsmöglichkeiten etc .",
-  },
+  }, */
   {
     id: 3,
     title:
@@ -33,10 +33,10 @@ const questions = [
       "Was prädestiniert dich für die Stelle? Warum sollten wir uns für dich entscheiden?",
     info: "Ich habe mir ein hohes Ziel gesetzt, nämlich einer der Top-Developer zu werden. Ich bin nicht umsonst nach Deutschland gekommen und es war kein leichter Weg, darum möchte ich die Chance, die ich hier bekommen habe, so gut es geht nutzen, mir eine gute Karriere aufzubauen. Außerdem bin ich gut darin, selbstständig als auch im Team zu arbeiten und es fällt mir leicht, mich schnell in neue Aufgaben einzuarbeiten. Wenn Ihr Euch für mich entscheidet, gewinnt Ihr einen motivierten, ambitionierten und zuverlässigen Mitarbeiter!",
   },
-  /*  {
+  {
     id: 7,
     title: "Schwächen?",
     info: "Wenn mir ein Projekt wichtig ist, kann es schon mal passieren, dass ich andere „issues“ vernachlässige (z.B. den Sport…) - wenn es um das Erreichen meiner Ziele geht, muss ich noch daran arbeiten, geduldiger zu werden → Bin mir dieser „Tendenzen“ bewusst und arbeite dran.",
-  }, */
+  },
 ];
 export default questions;
